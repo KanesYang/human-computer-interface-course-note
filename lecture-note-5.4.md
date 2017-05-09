@@ -36,7 +36,7 @@ _ _ _
 1. **Selection** **(event to change state) ==type: boolean==** : button, switch, checkbox, radio button, menu
 2. **quantifier** **(we could the exact quantity of user action) ==type:int / float could also understand in 1D space==**: knob, scrollbar
 3. **tuples / position** **(user action in a 2D or 3D space) ==type:tuples==** : mouse, touchscreen, Wii controller(3D space)
-4. **(need to ask prof)** **==type:string==**: keyboard
+4. **text** **==type:string==**: keyboard
 5. ==there is no more other extension of human computer interface!!!==
 
 ####Definition:
